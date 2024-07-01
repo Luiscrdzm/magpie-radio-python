@@ -6,7 +6,7 @@ Simplemente voy a intentar hacer cosas nuevas y habilidades sencillas, el uso de
 
 ## Por Hacer:
 Calculadora
-Inicio de sesion<sub> de mis amiguitos feos </sub>
+Inicio de sesion<sub> de mis amiguitos feos </sub><br>
 Foro<sub> para hacer info dump kk </sub>
 
 
